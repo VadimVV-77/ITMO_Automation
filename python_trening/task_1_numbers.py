@@ -4,6 +4,7 @@ print(a, "относится к типу",type(a))
 b = 15.00001
 print(b, "относится к типу", type(b))
 
+
 c = 1+2j
 print(c, "комлексное число? ", isinstance(c, complex))
 
